@@ -16,7 +16,8 @@
 ![Fabric](https://img.shields.io/badge/Fabric_Mod-333?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white)
-![FocusGen AI](https://media.discordapp.net/attachments/1280253951513727058/1373672428504481924/ChatGPT_Image_May_13_2025_04_05_04_PM.png?ex=682b43a4&is=6829f224&hm=c897777713320064ae932db2ec3e5070961b4e7746732b375cc69cb70b35b508&=&format=webp&quality=lossless&width=953&height=953)
+![FcousGen AI](ttps://ibb.co/PZFYqQ54)
+
 
 ---
 
