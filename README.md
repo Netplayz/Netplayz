@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Netplayz
 
-<!--
-**Netplayz/Netplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning more about Discord bot development, Python, Web Development & AI.
 
-Here are some ideas to get you started:
+- 🛠️ I'm currently working on Minecraft projects using **Fabric** and modding tools.
+- 🌱 I'm currently learning Python and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric_Mod-333?style=for-the-badge&logo=minecraft&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+- GitHub: [github.com/Netplayz](https://github.com/Netplayz)
+
+---
+
+> “Build things you’d want to use — that’s where the passion shows.”
