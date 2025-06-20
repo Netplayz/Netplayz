@@ -23,7 +23,7 @@
 
 ### 📫 Connect with Me
 - GitHub: [github.com/Netplayz](https://github.com/Netplayz)
-
+-Email Netplayz@programmer.net
 ---
 
 > “Build things you’d want to use — that’s where the passion shows.”
