@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Netplayz
+# 👋 Hi there, I'm NetByte
 
 ### Learning more about Discord bot development, Python, Web Development & AI.
 
