@@ -1,15 +1,39 @@
-# 👋 Hi there, I'm NetByte
+# 👋 Hi, I'm NetByte
 
-### Learning more about Discord bot development, Python, Web Development & AI.
+### Developer • CISO @ Baysn • Minecraft Modder • Security-Focused Builder
 
-- 🛠️ I'm currently working on Minecraft projects using **Fabric** and modding tools.
-- 🌱 I'm currently learning Python and AI.
-- 💻 As the Chief Information Security Officer for [Baysn] (https://baysn.xyz)
-I am responsible for safeguarding over 1.4 million users from 
-cyberattacks and data breaches.
-- 🐍 Maintainer and developer of [ERM community edition] (https://github.com/HueyMcSpewy/erm-ce)
+I'm a developer passionate about **Discord bots**, **Python**, **web development**, **AI**, and **Minecraft Fabric modding**.
 
-### 🧰 Tech Stack & Tools
+As the **Chief Information Security Officer** at **[Baysn](https://baysn.xyz)**, I help safeguard **1.4M+ users** from cyberattacks and data breaches.  
+I enjoy building tools, automating systems, and securing platforms.
+
+---
+
+## 🧠 Skills
+
+### 💻 Development
+- Discord bot development (discord.py & interactions)
+- Python scripting & automation
+- Minecraft modding using Fabric
+- Backend logic & API integrations
+- Bash scripting (server automation)
+
+### 🛡️ Cybersecurity
+- Server hardening & secure configurations
+- Incident response & threat mitigation
+- Network & application security
+- Security policy creation & enforcement
+
+### ☁️ Infrastructure
+- Linux server administration (Debian, Ubuntu, Kali)
+- Cloudflare security & DNS management
+- System monitoring, uptime tracking & logging
+- Automated deployments & environment setup
+
+---
+
+## 🧰 Tech Stack
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
@@ -18,14 +42,22 @@ cyberattacks and data breaches.
 ![Fabric](https://img.shields.io/badge/Fabric_Mod-333?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white)
-![FcousGen AI](ttps://ibb.co/PZFYqQ54)
-
 
 ---
 
-### 📫 Connect with Me
-- GitHub: [github.com/Netplayz](https://github.com/Netplayz)
--Email Netplayz@programmer.net
+## 🔭 Current Projects
+- **ERM Community Edition** – Developer & maintainer  
+- **Minecraft Fabric projects** – custom utilities & mod features  
+- **Discord automation tools** – moderation & server management systems  
+- **Baysn security enhancements** – backend protection & user safety systems  
+
 ---
 
-> “Build things you’d want to use — that’s where the passion shows.”
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/Netplayz  
+- **Email:** Netplayz@programmer.net  
+
+---
+
+> _“Build things you’d want to use — that’s where the passion shows.”_
