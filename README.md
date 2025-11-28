@@ -7,7 +7,7 @@
 - 💻 As the Chief Information Security Officer for Baysn, 
 I am responsible for safeguarding over 1.4 million users from 
 cyberattacks and data breaches.
-- 🐍 Maintainer and developer of ERM community edition 
+- 🐍 Maintainer and developer of ERM community edition.
      (https://github.com/HueyMcSpewy/erm-ce)
 
 ### 🧰 Tech Stack & Tools
