@@ -5,8 +5,8 @@
 - 🛠️ I'm currently working on Minecraft projects using **Fabric** and modding tools.
 - 🌱 I'm currently learning Python and AI.
 - 💻 As the Chief Information Security Officer for Baysn, 
-- I am responsible for safeguarding over 1.4 million users from 
-- cyberattacks and data breaches.
+I am responsible for safeguarding over 1.4 million users from 
+cyberattacks and data breaches.
 
 ---
 
