@@ -4,11 +4,10 @@
 
 - 🛠️ I'm currently working on Minecraft projects using **Fabric** and modding tools.
 - 🌱 I'm currently learning Python and AI.
-- 💻 As the Chief Information Security Officer for Baysn, 
+- 💻 As the Chief Information Security Officer for [Baysn] (https://baysn.xyz)
 I am responsible for safeguarding over 1.4 million users from 
 cyberattacks and data breaches.
-- 🐍 Maintainer and developer of ERM community edition.
-     (https://github.com/HueyMcSpewy/erm-ce)
+- 🐍 Maintainer and developer of [ERM community edition] (https://github.com/HueyMcSpewy/erm-ce)
 
 ### 🧰 Tech Stack & Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
