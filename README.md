@@ -1,11 +1,9 @@
 # 👋 Hi, I'm NetByte
 
-### Developer • CISO @ Baysn • Minecraft Modder • Security-Focused Builder
+### Developer • Minecraft Modder • Security-Focused Builder
 
 I'm a developer passionate about **Discord bots**, **Python**, **web development**, **AI**, and **Minecraft Fabric modding**.
 
-As the **Chief Information Security Officer** at **[Baysn](https://baysn.xyz)**, I help safeguard **1.4M+ users** from cyberattacks and data breaches.  
-I enjoy building tools, automating systems, and securing platforms.
 
 ---
 
