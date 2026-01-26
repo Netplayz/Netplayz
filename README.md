@@ -79,7 +79,6 @@ I'm a developer passionate about **Discord bots**, **Python**, **web development
 - **ERM Community Edition** – Developer & maintainer  
 - **Minecraft Fabric projects** – custom utilities & mod features  
 - **Discord automation tools** – moderation & server management systems  
-- **Baysn security enhancements** – backend protection & user safety systems  
 
 ---
 
