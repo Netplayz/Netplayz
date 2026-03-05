@@ -85,7 +85,7 @@ I'm a developer passionate about **Discord bots**, **Python**, **web development
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/Netplayz  
-- **Email:** Netplayz@programmer.net  
+- **Email:** netbytewastaken@proton.me 
 
 ---
 
