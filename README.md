@@ -76,7 +76,6 @@ I'm a developer passionate about **Discord bots**, **Python**, **web development
 ---
 
 ## 🔭 Current Projects
-- **ERM Community Edition** – Developer & maintainer  
 - **Minecraft Fabric projects** – custom utilities & mod features  
 - **Discord automation tools** – moderation & server management systems  
 
