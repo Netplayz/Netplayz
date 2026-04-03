@@ -79,6 +79,7 @@ netbyte = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Databases**
 
@@ -107,6 +108,7 @@ netbyte = {
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric_Mod-333333?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Game Modding](https://img.shields.io/badge/Game_Modding-8A2BE2?style=for-the-badge)
+![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 </div>
 
@@ -156,6 +158,6 @@ netbyte = {
 
 <div align="center">
 
-*Philadelphia-built. Linux-native. No Docker. Its a Philly thing.*
+*Philadelphia-built. Linux-native. No Docker.*
 
 </div>
