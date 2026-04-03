@@ -21,7 +21,7 @@ netbyte = {
     "location":     "Philadelphia, PA 🇺🇸",
     "focus":        ["Cybersecurity", "Self-Hosted Infra", "AI Engineering"],
     "bug_bounty":   "NASA via Bugcrowd",
-    "daily_driver": "Linux",
+    "daily_driver": "Ubuntu 25.10",
     "contact":      "netbytewastaken@proton.me",
     "note":         "No Docker. Ever.",
 }
