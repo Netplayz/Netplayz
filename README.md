@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://preview.redd.it/average-arch-linux-user-oh-and-did-you-know-that-i-use-arch-v0-na6opzjr42601.jpg?width=640&crop=smart&auto=webp&s=ea43cf9c6784517074ee248c807a8e90acdfe865" width="640" style="border-radius:50%" />
+<img src="https://preview.redd.it/average-arch-linux-user-oh-and-did-you-know-that-i-use-arch-v0-na6opzjr42601.jpg?width=640&crop=smart&auto=webp&s=ea43cf9c6784517074ee248c807a8e90acdfe865" width="350" style="border-radius:50%" />
 
 <br/>
 
