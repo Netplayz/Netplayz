@@ -23,7 +23,7 @@ netbyte = {
     "bug_bounty":   "NASA via Bugcrowd",
     "daily_driver": "Linux",
     "contact":      "netbytewastaken@proton.me",
-    "note":         "No Docker. Ever.",
+    "note":         "No Docker. Ever."
 }
 ```
 
