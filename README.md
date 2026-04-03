@@ -23,7 +23,8 @@ netbyte = {
     "bug_bounty":   "NASA via Bugcrowd",
     "daily_driver": "Linux",
     "contact":      "netbytewastaken@proton.me",
-    "note":         "No Docker. Ever."
+    "note":         "Self host is the best host",
+    "Quote":        "Its a philly thing -Jalen Hurts"
 }
 ```
 
@@ -32,8 +33,8 @@ netbyte = {
 ### 🔭 What I'm Building
 
 - 🧠 **ASAS v4.0** — AI coding agent on Raspberry Pi 5 (ARM64), 11 dev tools, OpenRouter API
-- ⚙️ **Morph Dashboard** — FastAPI + Rust/Axum Discord-authenticated dashboard for MorphERLC
-- 🚢 **ByteDock** — Self-hosted Minecraft server panel with Modrinth/CurseForge modpack support
+- ⚙️ **Morph Dashboard** — FastAPI + Python Discord-authenticated dashboard for MorphERLC
+- 🚢 **ByteDock** — Docker based server manamagement panel with pterodactyl egg suppport
 - 🪞 **ezmirror** — Bash-based open-source Linux mirror deployment system with rsyncd + torrent seeding
 - 🖥️ **ByteAI OS** — Custom Raspberry Pi OS optimized for local AI inference (Ollama, llama.cpp ARM NEON/SVE)
 
