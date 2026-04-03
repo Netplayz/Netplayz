@@ -1,7 +1,7 @@
 # <p align=center> <img src="https://avatars.githubusercontent.com/u/69758742?v=4" width=128 height=128></p>
 # <p align=center> <img src="https://komarev.com/ghpvc/?username=Netplayz&label=Views&color=B08BB4&style=flat" alt="Netplayz" /> </p>
 
-👋 hey, i'm **NetByte**, a developer and ethical hacker from philadelphia. i work across cybersecurity, self-hosted infrastructure, and ai engineering — i've done bug bounty work (nasa via bugcrowd), built custom linux distros, and shipped ai coding agents running on raspberry pi hardware. most of my work lives here on github but if needed you can send me a message on [discord](https://discord.com/users/674365088924303394) or [email me](mailto:netbytewastaken@proton.me)
+👋 Hey, I'm **NetByte**, a developer and ethical hacker from Philadelphia. I work across cybersecurity, self-hosted infrastructure, and AI engineering — I've done bug bounty work (NASA via Bugcrowd), built custom Linux distros, and shipped AI coding agents running on Raspberry Pi hardware. Most of my work lives here on GitHub, but if needed you can send me a message on [Discord](https://discord.com/users/674365088924303394) or [email me](mailto:netbytewastaken@proton.me)
 
 ---
 
