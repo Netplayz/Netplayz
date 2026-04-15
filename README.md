@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tr.rbxcdn.com/180DAY-d985763dc79c5a1fb80ccfeda84b55cc/420/420/FaceAccessory/Webp/noFilter" width="350" style="border-radius:50%" />
+<img src="https://external-preview.redd.it/licking-fox-v0-rcZyKiqMT-G8Zc4N4k7lPnzVKMmRH95eJCxbFFy53sI.jpg?auto=webp&s=c3aeb327c815dc95aa6636ad4d2855174497e762" width="350" style="border-radius:50%" />
 
 <br/>
 
