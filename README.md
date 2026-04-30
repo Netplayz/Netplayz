@@ -69,6 +69,7 @@ netbyte = {
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Nyarch](https://img.shields.io/badge/Nyarch-0078D6?style=for-the-badge&logo=nyarch&logoColor=white)
 
 **Infrastructure & Tools**
 
