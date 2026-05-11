@@ -21,7 +21,7 @@ netbyte = {
     "location":     "Philadelphia, PA 🇺🇸",
     "focus":        ["Cybersecurity", "Self-Hosted Infra", "AI Engineering"],
     "bug_bounty":   "NASA via Bugcrowd",
-    "daily_driver": "Ubuntu 25.10",
+    "daily_driver": "i use arch btw",
     "contact":      "netbytewastaken@proton.me",
     "note":         "Self host is the best host",
     "Quote":        "Its a philly thing -Jalen Hurts"
