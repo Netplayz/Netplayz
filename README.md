@@ -160,6 +160,6 @@ netbyte = {
 
 <div align="center">
 
-*Philadelphia-built. Linux-native. No Docker.*
+*Philadelphia-built. Linux-native. No Docker (sometimes).*
 
 </div>
